@@ -10,3 +10,7 @@
 Tested with Wildfly / JBoss EAP 13 ([download](https://download.jboss.org/wildfly/13.0.0.Final/wildfly-13.0.0.Final.zip))
 
 Build by running `./mvnw package`
+
+Access web application
+* http://localhost:8080/user-webapp
+* http://localhost:8080/admin-webapp
